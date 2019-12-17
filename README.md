@@ -15,3 +15,8 @@ Notification.notification('Battery', 'Battery monitor\nStarted successfully',
              'black', width, height, x ,y)
 ```
 ![Dark background](https://github.com/IntrovertedCoder/Python-Notifications/blob/master/Dark%20background%20test.png)
+Because of the darker background the text became lighter.
+
+![Light background](https://github.com/IntrovertedCoder/Python-Notifications/blob/master/Light%20background%20test.png)
+Because of the ligher background the text became darker.
+This will work for other colors, just black and white are easier to show.
