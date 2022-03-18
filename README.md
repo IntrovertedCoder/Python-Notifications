@@ -2,7 +2,7 @@
  Show notifications with python tkinter
 
 Example:
-```
+```py
 import Notification
 
 x = 1570
